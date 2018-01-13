@@ -53,5 +53,4 @@ We use [backpack](https://github.com/palmerhq/backpack) to watch and build the a
 - [ExpressJS license](https://github.com/expressjs/express/blob/master/LICENSE)
 - [NuxtJS license](https://github.com/nuxt/nuxt.js/blob/master/LICENSE.md)
 - [VueJS license](https://github.com/vuejs/vue/blob/master/LICENSE)
-- [Directus CMS license](https://github.com/directus/directus/blob/master/LICENSE.md)
 
